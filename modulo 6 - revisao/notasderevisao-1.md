@@ -1,4 +1,4 @@
-## notas de aula de revisão
+## notas de aula de revisão - parte 1 - Criando repositório novo
 
 1) git init => iniciar repositório
 2) Adicionar arquivos, pastas, etc 
