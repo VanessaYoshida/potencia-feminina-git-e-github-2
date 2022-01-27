@@ -8,4 +8,3 @@
 6) git add .
 7) git commit -m "mensagem"
 8) git push --set-upstream origin master
-9)  
